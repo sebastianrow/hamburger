@@ -6,3 +6,8 @@
 5. Pepinillos
 6. Queso
 7. Guacamole
+
+# Tiempo de cocción
+El pan se calienta por 5 minutos.
+La carne se cocina por 10 minutos por ambos lados.
+
